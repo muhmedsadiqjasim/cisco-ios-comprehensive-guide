@@ -45,6 +45,6 @@ When you are ready to submit:
 
 ## 6. Questions and Discussions
 If you are stuck, need clarification on a topic, or want to discuss a new idea, please use the **GitHub Discussions** tab. We are happy to help you get your contribution over the finish line!
-If you are stuck, need clarification on a topic, or want to discuss a new idea, please use the **GitHub Discussions** tab. We are happy to help you get your contribution over the finish line!
+
 
 Once again, thank you for helping us build the ultimate networking cookbook!
