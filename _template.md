@@ -35,7 +35,6 @@ configure terminal
 
 ```text
 Device# show [command]
-
 ```
 
 [Briefly explain what specific fields or keywords to look for in the output to confirm the configuration is successful.]
@@ -60,6 +59,5 @@ Device# show [command]
 * [Link to official Cisco configuration guide, command reference, or relevant RFC]
 
 ```
-<FollowUp label="Draft the repository README?" query="Let's write the main README.md for the repository to explain the project to visitors and encourage contributions."/>
 
 ```
