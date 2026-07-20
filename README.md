@@ -5,6 +5,8 @@ The goal of this project is to create a **comprehensive configuration guide** an
 >[!NOTE]
 >The topics are ordered progressively, starting with the simplest configurations and advancing to the most complex technologies, rather than following the official topic sequence of the CCNA and CCNP blueprints.
 
+
+### VERY IMPORTANT NOTE :)
 ```
 ██╗    ██╗ ███████╗
 ██║    ██║ ██╔════╝
