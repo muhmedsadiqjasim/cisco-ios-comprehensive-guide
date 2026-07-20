@@ -22,8 +22,6 @@
 enable
 configure terminal
 ! [Insert exact configuration commands below]
-
-
 ```
 
 ## Configuration Explanation
