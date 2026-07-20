@@ -43,8 +43,6 @@ When you are ready to submit:
 2. Ensure you have included the lab file and the topology screenshot in the topic folder.
 3. Open a Pull Request and fill out the template. Include the phrase `Closes #[Issue Number]` so GitHub automatically links your PR to your original claim issue.
 
+Thank you again.
 ## 6. Questions and Discussions
 If you are stuck, need clarification on a topic, or want to discuss a new idea, please use the **GitHub Discussions** tab. We are happy to help you get your contribution over the finish line!
-
-
-Once again, thank you for helping us build the ultimate networking cookbook!
