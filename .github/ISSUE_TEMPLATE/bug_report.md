@@ -4,6 +4,7 @@ about: Report an error, typo, or inaccuracy in the guide
 title: "[BUG] "
 labels: bug
 assignees: ''
+
 ---
 
 **Location of the Bug**
